@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="6px" viewBox="0 0 6 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Green</title>
+    <defs>
+        <linearGradient x1="37.542037%" y1="1.56444444%" x2="62.457963%" y2="98.4355556%" id="linearGradient-1">
+            <stop stop-color="#464646" offset="0%"></stop>
+            <stop stop-color="#333333" offset="53.67%"></stop>
+            <stop stop-color="#111111" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="231.451739%" y1="50%" x2="232.538696%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#14E800" offset="0%"></stop>
+            <stop stop-color="#18C100" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#151515" offset="0%"></stop>
+            <stop stop-color="#424242" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.5290941%" y1="26.8715302%" x2="54.6815383%" y2="75.2976884%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.85" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile_Sport-4" transform="translate(-29.000000, -936.000000)">
+            <g id="Bank" transform="translate(10.000000, 866.000000)">
+                <g id="Group-2" transform="translate(14.000000, 65.000000)">
+                    <g id="Green" transform="translate(5.000000, 5.000000)">
+                        <path d="M3,0 C1.34444444,0 0,1.34444444 0,3 C0,4.65555556 1.34444444,6 3,6 C4.65555556,6 6,4.65555556 6,3 C6,1.34444444 4.65555556,0 3,0 Z M3,5.66666667 C1.52222222,5.66666667 0.333333333,4.47777778 0.333333333,3 C0.333333333,1.52222222 1.52222222,0.333333333 3,0.333333333 C4.47777778,0.333333333 5.66666667,1.52222222 5.66666667,3 C5.66666667,4.47777778 4.47777778,5.66666667 3,5.66666667 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <circle id="Oval" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="3" cy="3" r="2.55555556"></circle>
+                        <path d="M3,0.333333333 C1.52222222,0.333333333 0.333333333,1.52222222 0.333333333,3 C0.333333333,4.47777778 1.52222222,5.66666667 3,5.66666667 C4.47777778,5.66666667 5.66666667,4.47777778 5.66666667,3 C5.66666667,1.52222222 4.47777778,0.333333333 3,0.333333333 Z M3,5.55555556 C1.58888889,5.55555556 0.444444444,4.41111111 0.444444444,3 C0.444444444,1.58888889 1.58888889,0.444444444 3,0.444444444 C4.41111111,0.444444444 5.55555556,1.58888889 5.55555556,3 C5.55555556,4.41111111 4.41111111,5.55555556 3,5.55555556 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                        <path d="M5.08888889,1.98888889 C5.08888889,2.84444444 4.1,3.45555556 2.88888889,3.53333333 C1.62222222,3.62222222 0.655555556,3.16666667 0.655555556,2.31111111 C0.644444444,1.4 1.76666667,0.466666667 2.88888889,0.444444444 C4.1,0.422222222 5.08888889,1.13333333 5.08888889,1.98888889 Z" id="Path" fill="url(#linearGradient-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
